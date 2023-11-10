@@ -57,6 +57,9 @@ Output
 
 
 ```
+## licence
+
+This project is licensed under the [GPL-3.0](https://github.com/a8m5d/ip-address-calculator/blob/main/LICENSE) license  License
 
 Feel free to use and modify the script to suit your specific needs.
 
