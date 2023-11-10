@@ -110,14 +110,14 @@ else:
         if int(add1[0])==127:
             PrivatOrPublic=("loopback address")
         elif int(add1[0])==10:
-            PrivatOrPublic="privat"
+            PrivatOrPublic="private"
         else:
             PrivatOrPublic="public"
 
     elif 128<=int(add1[0])<=191:
         add_class="class B"
         if int(add1[0])==172 and 16<=int(add1[1])<=31:
-            PrivatOrPublic="privat"
+            PrivatOrPublic="private"
         else:
             PrivatOrPublic="public"
 
@@ -125,7 +125,7 @@ else:
     elif 192<=int(add1[0])<=223:
         add_class="class C "
         if int(add1[0])==192 and int(add1[1])==168:
-            PrivatOrPublic="privat"
+            PrivatOrPublic="private"
         else:
             PrivatOrPublic="public"
 
