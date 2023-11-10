@@ -1,4 +1,3 @@
-
 from sys import exit,argv
 
 def to_binary(decnum):
@@ -92,7 +91,7 @@ add_bin=[]
 addcheck=add.split(".")
 
 
-_3ayro="This's an invalid address U IDIOT, \nA valid address its octets must be belong to the range [1:255]"
+_3ayro="This's an invalid address U IDIOT, \nA valid address its octets must belong to the range [1:255]"
 
 if int(addcheck[0])==0:
     print(_3ayro)
@@ -102,7 +101,7 @@ elif int(addcheck[0] )>255 or int(addcheck[1] )>255 or int(addcheck[2] )>255 or 
     exit()
 
 else:
-#get the class  from a giving net id and if it's prv/pub
+#get the class  from a given net id and if it's prv/pub
     add_class =""
     PrivatOrPublic=""
 
