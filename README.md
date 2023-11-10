@@ -47,7 +47,7 @@ Output
                        172.16.0.7/23                        
 ------------------------------------------------------------
  class                        |            class B            
- type                         |             privat            
+ type                         |             private            
  subnet mask                  |         255.255.254.0         
  network id                   |           172.16.0.0          
  broadcast id                 |          172.16.1.255         
