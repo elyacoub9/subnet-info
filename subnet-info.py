@@ -183,14 +183,14 @@ else:
     add1=listtostring(add1)
 
     content={
-    "class":add_class,
-    "type":PrivatOrPublic,
-    "subnet mask":submask,
-    "network ID":netadd,
-    "broadcast ID":bdcadd,
-    "first address":firsadd,
-    "last address":lastadd,
-    "nb of addresses":adds,
+    "Class":add_class,
+    f"Type[{str(add)}]":PrivatOrPublic,
+    "Subnet mask":submask,
+    "Network ID":netadd,
+    "Broadcast ID":bdcadd,
+    "First address":firsadd,
+    "Last address":lastadd,
+    "No of addresses":adds,
     }
     def result(mycontent):
         print("-"*60)
