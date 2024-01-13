@@ -44,17 +44,16 @@ run your code
 Output
 ```Output
 ------------------------------------------------------------
-                       172.16.0.7/23                        
+                       10.10.10.0/23
 ------------------------------------------------------------
- class                        |            class B            
- type                         |             private            
- subnet mask                  |         255.255.254.0         
- network id                   |           172.16.0.0          
- broadcast id                 |          172.16.1.255         
- first address                |           172.16.0.1          
- last address                 |          172.16.1.254         
- nb of addresses              |              510              
-
+ class                        |            class A
+ type [10.10.10.0]            |            private
+ subnet mask                  |         255.255.254.0
+ network id                   |           10.10.10.0
+ broadcast id                 |          10.10.11.255
+ first address                |           10.10.10.1
+ last address                 |          10.10.11.254
+ no of addresses              |              510
 
 ```
 ## licence
