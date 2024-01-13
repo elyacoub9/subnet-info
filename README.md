@@ -1,6 +1,6 @@
-# IP Address Calculator
+# Subnet Info
 
-This Python script provides a simple yet powerful tool for calculating various network-related values from a given IP address in a CIDR notation. It is particularly useful for anyone dealing with IP address manipulation.
+This Python script provides a simple yet powerful tool for calculating various network-related values from a given IP address in a CIDR notation (Subnet). It is useful for anyone dealing with IP address manipulation.
 
 ## Features
 
@@ -22,13 +22,13 @@ This Python script provides a simple yet powerful tool for calculating various n
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/a8m5d/ip-address-calculator.git
+   git clone https://github.com/a8m5d/subnet-info.git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd ip-address-calculator
+   cd subnet-info
    ```
 
 ## Usage
@@ -39,7 +39,7 @@ This Python script provides a simple yet powerful tool for calculating various n
 run your code
 
 ```bash
-   python3 ip_calculator.py 172.16.0.7 23
+   python3 subnet-info.py 172.16.0.7 23
    ```
 Output
 ```Output
@@ -59,7 +59,7 @@ Output
 ```
 ## licence
 
-This project is licensed under the [GPL-3.0](https://github.com/a8m5d/ip-address-calculator/blob/main/LICENSE) license  License
+This project is licensed under the [GPL-3.0](https://github.com/a8m5d/subnet-info/blob/main/LICENSE) license  License
 
 Feel free to use and modify the script to suit your specific needs.
 
@@ -68,4 +68,4 @@ Feel free to use and modify the script to suit your specific needs.
 
 - Inspired by the need for a quick and easy way to calculate IP-related values.
 
-i am open for any feedback or suggestions for improvement.
+I am open to any feedback or suggestions for improvement.
