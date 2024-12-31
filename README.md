@@ -46,6 +46,3 @@ Output
  no of addresses              |              510
 
 ```
-
-
-I am open to any feedback or suggestions you might have.
