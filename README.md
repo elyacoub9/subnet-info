@@ -6,7 +6,7 @@ generate the following:
 - **Network ID**
 - **Broadcast ID** 
 - **First Address** 
-- **Last Address.
+- **Last Address**.
 - **Number of Addresses** 
 
 
