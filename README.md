@@ -1,13 +1,13 @@
 
-
-- **Class Type:** Determine the class type of the given IP address.
-- **address Type:** Privat/Public
-- **Subnet Mask:** Calculate the subnet mask corresponding to the CIDR notation.
-- **Network ID:** Obtain the network ID of the given IP address and CIDR.
-- **Broadcast ID:** Find the broadcast ID for the specified network.
-- **First Address:** Determine the first usable address in the given subnet.
-- **Last Address:** Calculate the last usable address in the given subnet.
-- **Number of Addresses:** Calculate the total addresses in the subnet.
+generate the following:
+- **Class Type**
+- **address Type** 
+- **Subnet Mask**
+- **Network ID**
+- **Broadcast ID** 
+- **First Address** 
+- **Last Address.
+- **Number of Addresses** 
 
 
 
