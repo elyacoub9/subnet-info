@@ -29,7 +29,7 @@ The script will provide information about the specified IP address and subnet.
 run your code
 
 ```bash
-   python3 subnet-info.py 172.16.0.7 23
+   python3 subnet-info.py 10.10.10.0 23
    ```
 Output
 ```Output
